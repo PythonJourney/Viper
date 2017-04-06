@@ -87,3 +87,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea/dictionaries/Ricky.xml
+
+.idea/inspectionProfiles/profiles_settings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+.idea/Viper.iml
+
+.idea/workspace.xml
